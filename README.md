@@ -1,7 +1,6 @@
 # WayHunt 🕵️‍♂️
 
-**WayHunt** is a fast and simple Wayback Machine URL hunting tool designed for **bug bounty hunters**, **penetration testers**, and **security researchers**.  
-It fetches archived URLs for target domains and can automatically categorize **sensitive files** for faster analysis.
+**WayHunt** is a fetches archived URLs for target domains and can automatically categorize **sensitive files** for faster analysis.
 
 ---
 
