@@ -37,7 +37,7 @@
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/USERNAME/WayHunt.git
+git clone https://github.com/whitenight-i/WayHunt.git
 cd WayHunt
 chmod +x wayhunt.sh
 
